@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-    main的页面11
+    main的页面1111
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
